@@ -61,7 +61,7 @@
 ---
 
 ## **Slide 4: Sample Database Schema**
-- Resource: **Student**
+- Resource: **RandomTableName**
   - **Fields:**
     - `id` (Primary Key, Long, Auto-generated)
     - `name` (String)
